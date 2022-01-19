@@ -1,0 +1,42 @@
+.a1{
+    background-color:yellow;
+}
+.TACOS{
+    background-image:url("../Pictures/Screenshots/Taco-PNG-Image.png");
+    height: 200px;
+    font-size: larger;
+    font-weight:bolder;
+}
+.yellow{
+    background-color:yellow;
+    text-align: center;
+
+}
+.text{
+    font-size: 50px;
+}
+.tc{
+    background-color: white;
+    text-align: center;
+    font-weight: bolder;
+}
+.br{
+    background-color: white;
+    text-align: center;
+    font-weight: bolder;
+}
+.wi{
+    background-color: white;
+    text-align: center;
+    font-weight: bolder;
+}
+.mu{
+    background-color: white;
+    text-align: center;
+    font-weight: bolder;
+}
+.tc{
+    background-color: white;
+    text-align: center;
+    font-weight: bolder;
+}
